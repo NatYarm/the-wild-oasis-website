@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Guest area',
+  title: 'Guest',
 };
 
 export default function Page() {
